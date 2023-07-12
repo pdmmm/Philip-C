@@ -6,18 +6,18 @@
 /*   By: pmosser <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/10 11:22:01 by pmosser           #+#    #+#             */
-/*   Updated: 2023/07/10 12:06:29 by pmosser          ###   ########.fr       */
+/*   Updated: 2023/07/12 11:05:04 by pmosser          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
+/*
 #include <unistd.h>
 #include <stdio.h>
-
+*/
 void	ft_ultimate_ft(int	*********nbr)
 {
 	*********nbr = 42;
 }
-
+/*
 int	main(void)
 {
 	int	number = 0;
@@ -35,3 +35,4 @@ int	main(void)
 	printf("%d\n", number);
 	return (0);
 }
+*/

@@ -6,18 +6,18 @@
 /*   By: pmosser <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/10 10:33:40 by pmosser           #+#    #+#             */
-/*   Updated: 2023/07/10 11:15:55 by pmosser          ###   ########.fr       */
+/*   Updated: 2023/07/12 11:04:16 by pmosser          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
+/*
 #include <unistd.h>
 #include <stdio.h>
-
+*/
 void	ft_ft(int *nbr)
 {
 	*nbr = 42;
 }
-
+/*
 int	main(void)
 {
 	int	number;
@@ -27,3 +27,4 @@ int	main(void)
 	printf("%d\n", number);
 	return (0);
 }
+*/

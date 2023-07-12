@@ -6,13 +6,13 @@
 /*   By: pmosser <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/10 12:23:14 by pmosser           #+#    #+#             */
-/*   Updated: 2023/07/10 12:46:16 by pmosser          ###   ########.fr       */
+/*   Updated: 2023/07/12 11:05:44 by pmosser          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
+/*
 #include <unistd.h>
 #include <stdio.h>
-
+*/
 void	ft_swap(int *a, int	*b)
 {
 	int	c;
@@ -21,6 +21,7 @@ void	ft_swap(int *a, int	*b)
 	*a = *b;
 	*b = c;
 }
+/*
 int	main(void)
 {
 	int	a = 5;
@@ -32,3 +33,4 @@ int	main(void)
 
 	return 0;
 }
+*/
